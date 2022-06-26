@@ -1,0 +1,33 @@
+{
+  "name": "FAQ",
+  "version": "1.1.0",
+  "description": "ein FAQ bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x7da/FAQ.git"
+  },
+  "keywords": [
+    "Discord_Bot",
+    "Discord-js-v13",
+    "Discord_Buttons",
+    "Verifizieren_Bot",
+    "24/7_Online",
+    "Button_interactions"
+  ],
+  "author": "ExothDE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0x7da/FAQ/issues"
+  },
+  "homepage": "https://github.com/0x7da/FAQ#readme",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.22.0",
+    "discord.js": "^13.1.0"
+  }
+}

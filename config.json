@@ -1,0 +1,30 @@
+{
+	"token": "XXXXXXXXXXXXXXXX",
+	"status": "Neulinge",
+	"prefix": "$",
+	"enable_slash": false,
+	"owners": ["825013296239345664"],
+	"embed_content": {
+		"title": "Tech 🌴Gaming",
+		"color": "#c0c531",
+		"thumbnail": true,
+		"thumbnail_url": "https://media.discordapp.net/attachments/859941202165628938/980073155353788469/unknown.png",
+		"question_1": "Du bist neu auf Discord?",
+		"question_2": "Warum sind hier so viele Bots?",
+		"question_3": "Flackernde Emojis oder Icons?",
+		"question_4": "Wieso werde ich makiert?",
+		"question_5": "Namen und Accounts"
+	},
+	"responses": {
+		"response_1": "Hey ganz schon viele Kanäle hier oder? aber kein Problem ich helfe dir!\nDu kannst ganz leicht Discord verstehen und die Funktionen mit Slash-Befehle Beispiel /help\nkannst du sehr leicht befehle einsehen und tolle funktionen ausführen.\nEs kann durchaus passieren das Bots nicht reagieren worauf wir Natürlich kein Einfluss haben Gedulde dich für 1-2 Stunden solange.",
+		"response_2": "Nun Ja die Bots haben Aufgaben und erledigen für uns Moderation und Logging\nSobald ein User diesen Server betritt sehen wir das in ein Channel dort sendet der bot die logs\nBeispiel du sendest ein Invite in einem Channel wo der nicht hin soll wird der bot automaisch diesen löschen.\nDas gleiche gilt für Verbotene Links (Doxing) oder andere ähnliche inhalte solltest du es weiterhin versuchen wirst du gemutet oder gebannt.",
+		"response_3": "Hey nicht erschrecken das sind Discord Emojis die kannst du senden die Gif Emojis leider nicht\nDafür Benötigst du Discord Nitro damit erhälst du viele vorteile gegen andere über.\nDu kannst Server Boosten und Tolle bilder versenden in unserem Hauptchat oder Lustige Videos.\naber hier bei gelten auch Regeln keine schockierende oder Hassverbreitende medien zu verbreiten.",
+		"response_4": "Eine Makierung ist nicht immer was schlimmes damit wird die Community aufmerksam gemacht und aktiv gehalten\nDu erhälst damit eine benachrichtung von ein Server der gerade was Sagen möchte Sei es ein Event oder Update es ist immer Unterschiedlich sei weiter aktiv!.\n Thema aktvität Sammel Fleißig Level um Tolle Belohungen abzuholen zum Beispiel die Bilder Rolle mit du als spieler \nBilder im Hauptchat versenden kannst.",
+		"response_5": "Lass dich nicht täuschen von Benutzer die Nicknames haben von Berühmte Personen oder andere Personen\nDas ist eine Funktion auf Servern Nickname ändern somit kannst du dein Nick anpassen wie du es möchtest außer es ist Verboten beispiel Invite namen.\nAchte dadrauf das dein Nicknamen niemanden verletzt nach Herkunft oder demgleichen sollte sowas vorkommen wird es Konsquenzen geben müssen als Einzelperson."
+	},
+	"log_channel_id": "980100257767645194",
+	"assistance_channel_id": "980063484362510367",
+	"assistance_role_id": "957405327995863111",
+	"Important": " Die Rolle, die im obigen Feld hinzugefügt werden soll, und der weitere Unterstützungskanal werden angezeigt, sodass Sie eine Rolle erstellen und Dauerwellen festlegen können",
+	"Note": "Füllen Sie alle oben genannten aus.Für neue Line-Verwendung \n.Für neue TabSpace-Nutzung \t.HyperLink use (text)[link] Es wird blau und anklickbar angezeigt"
+}
